@@ -1,2 +1,4 @@
 # Gize-Studio
-Seramik Stüdyomuz için oluşturduğum web uygulaması
+Seramik Stüdyomuz için oluşturacağım web uygulaması.
+
+
