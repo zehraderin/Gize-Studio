@@ -1,5 +1,27 @@
 # Gize-Studio
-Seramik Stüdyomuz için oluşturacağım web uygulaması.
+
+# 🏺 Pottery Studio Management & E-Commerce Platform
+
+Bu proje, bir seramik stüdyosunun workshop rezervasyonlarını, e-ticaret süreçlerini ve kursiyer ürün takip sistemini yöneten tam kapsamlı bir Web uygulamasıdır.
+
+## 🛠️ Teknoloji Yığını (Tech Stack)
+
+- **Frontend:** Next.js (App Router), React, Tailwind CSS, Shadcn/UI, Framer Motion
+- **Backend & Database:** Supabase (PostgreSQL), Next.js Server Actions / API Routes
+- **Authentication:** Supabase Auth (Email & OAuth)
+- **Payment Gateway:** iyzico API (Sandbox Entegrasyonu)
+- **Email Service:** Resend API
+- **Deployment:** Vercel
+
+## 🎯 Öne Çıkan Geliştirici Özellikleri (Technical Features)
+
+- [ ] **Dinamik Takvim ve Kontenjan Yönetimi:** Çakışan rezervasyonları engelleyen PostgreSQL ilişkisel veri yapısı.
+- [ ] **Ürün Fırın/Teslimat Takip Sistemi:** Kullanıcılara özel ürün durumu (Bisküvi Pişirimi, Sırlama, Teslimata Hazır) sorgulama alanı.
+- [ ] **Webhook Entegrasyonu:** iyzico ödeme sonrası otomatik rezervasyon onayı ve e-posta tetikleme.
+- [ ] **Role-Based Access Control (RBAC):** Admin (Stüdyo sahibi) ve Müşteri panellerinin ayrılması.
+
+
+
 
 ## 🎯 Proje Özellikleri
 
