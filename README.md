@@ -26,7 +26,7 @@ Bu proje, bir seramik stüdyosunun workshop rezervasyonlarını, e-ticaret süre
 ## 🎯 Proje Özellikleri
 
 ### 📅 Atölye & Ders Rezervasyonu
-- [ ] İnteraktif etkinlik takvimi ve kontenjan takibi
+- [ ] İnteraktif etkinlik takvimi ve kontenjan takip sistemi
 - [ ] Tek seferlik workshop & dönemsel kurs kayıt altyapısı
 - [ ] İptal/Değişiklik talepleri ve otomatik e-posta/SMS hatırlatmaları
 
